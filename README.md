@@ -1,0 +1,2 @@
+# Multiplicaci-n-de-matrices-con-Numpy
+Desarrollar una aplicación que me permita multiplicar matrices con numpy.  El usuario debe ingresar las dimensiones de las matrices y los datos de la misma.  Se debe validar las dimensiones y los datos ingresados.  Pueden trabajar en grupos de máximo 4.  Subir a un repositorio de github y pegar el link en el aula virtual (todos).  El repositorio de github debe tener el código y capturas de la ejecución del programa en el readme
